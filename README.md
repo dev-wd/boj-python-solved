@@ -5,6 +5,6 @@
 
 ## Collection of BOJ solved problem
 
--  [link](https://dev-wd.github.io/algorithm/2019-11-23-algorithm-backjoon7569/) 7569 토마토
--  [link](https://dev-wd.github.io/algorithm/2019-11-25-algorithm-backjoon17135/) 17135 캐슬 디펜스
--  [link](https://dev-wd.github.io/algorithm/backjoon9095/) 9095 1,2,3 더하기
+-  [7569 토마토](https://dev-wd.github.io/algorithm/2019-11-23-algorithm-backjoon7569/)
+-  [17135 캐슬 디펜스](https://dev-wd.github.io/algorithm/2019-11-25-algorithm-backjoon17135/)
+-  [9095 1,2,3 더하기](https://dev-wd.github.io/algorithm/backjoon9095/)
