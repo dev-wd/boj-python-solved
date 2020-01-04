@@ -23,3 +23,4 @@ for i in range(len(questionCases)):
     currentPlayer = (currentPlayer + 1) % 9
     if currentPlayer == 0:
       currentPlayer = 1
+ 
