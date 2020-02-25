@@ -12,3 +12,4 @@
 -  [1669 제곱수의 합](https://dev-wd.github.io/algorithm/backjooon1669/)
 -  [5557 1학년](https://dev-wd.github.io/algorithm/backjoon5557/)
 -  [10844 쉬운 계단 수](https://dev-wd.github.io/algorithm/backjoon10844/)
+-  [11048 이동하기](https://dev-wd.github.io/algorithm/backjoon11048/)
