@@ -15,3 +15,4 @@
 -  [11048 이동하기](https://dev-wd.github.io/algorithm/backjoon11048/)
 -  [1043 거짓말](https://dev-wd.github.io/algorithm/backjoon1043/)
 -  [1717 집합의 표현](https://dev-wd.github.io/algorithm/backjoon1717/)
+-  [11726 2×n 타일링](https://dev-wd.github.io/algorithm/backjoon11726/)
